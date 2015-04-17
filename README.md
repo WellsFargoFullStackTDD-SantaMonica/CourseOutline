@@ -2,10 +2,6 @@
 
 Accelebrate's AngularJS / .NET / SQL Server Test Driven Development course prepares students to use test first development methodologies in their coding workflow.  This includes unit tests, using Isolation & Mocking frameworks, and Dependency Injection / Inversion of Control containers.  The course will apply these concepts in a SQL Server / .NET / ASP.NET MVC WebAPI / AngularJS application development environment.  Different tools, frameworks, and APIs such as nUnit, Microsoft's Fakes, NSubstitute, Typemock, Microsoft's Unity, Ninject, QUnit, Karma, Jasmine, and Mocha will be discussed, compared, and applied.  Concepts and tools for Continuous Integration / Delivery / Deployment will also be covered.
 
-## Location and Pricing
-
-Most Accelebrate courses are taught on-site at our clients' locations worldwide for groups of 3 or more attendees and are customized to their specific needs. Please visit our client list to see organizations for whom we have recently delivered training. These courses can also be delivered as live, private online classes for groups that are geographically dispersed or wish to save on the instructor's or students' travel expenses. To receive a customized proposal and price quote private training at your site or online, please contact us.
-
 ## Training Prerequisites
 
 .NET and JavaScript programming experience.
